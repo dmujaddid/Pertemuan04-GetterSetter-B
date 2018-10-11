@@ -9,7 +9,7 @@ package pertemuan04.pkg01;
  *
  * @author eka
  */
-public class Pertemuan0401 {
+public class Main {
 
     /**
      * @param args the command line arguments
